@@ -2,6 +2,13 @@ import Link from 'next/link'
 import noticesData from '@/data/notices.json'
 import { getPaginatedPosts, getTotalPages, type BoardPost } from '@/lib/board-utils'
 
+export async function generateStaticParams() {
+    return [
+        { lang: 'ko' },
+        { lang: 'en' }
+    ]
+}
+
 export default async function NoticesPage({ params }: { params: Promise<{ lang: string }> }) {
     const { lang } = await params
     const isKorean = lang === 'ko'

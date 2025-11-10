@@ -1,3 +1,10 @@
+export async function generateStaticParams() {
+    return [
+        { lang: 'ko' },
+        { lang: 'en' }
+    ]
+}
+
 export default async function RubberPage({ params }: { params: Promise<{ lang: string }> }) {
     const { lang } = await params
     const isKorean = lang === 'ko'

@@ -2,6 +2,13 @@ import Link from 'next/link'
 import newsData from '@/data/news.json'
 import { type BoardPost } from '@/lib/board-utils'
 
+export async function generateStaticParams() {
+    return [
+        { lang: 'ko' },
+        { lang: 'en' }
+    ]
+}
+
 export default async function NewsDetailPage({ params }: { params: Promise<{ lang: string; id: string }> }) {
     const { lang, id } = await params
     const isKorean = lang === 'ko'

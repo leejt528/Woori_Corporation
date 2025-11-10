@@ -1,5 +1,12 @@
 import Link from 'next/link'
 
+export async function generateStaticParams() {
+    return [
+        { lang: 'ko' },
+        { lang: 'en' }
+    ]
+}
+
 export default async function PartnersPage({ params }: { params: Promise<{ lang: string }> }) {
     const { lang } = await params
     const isKorean = lang === 'ko'
