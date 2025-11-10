@@ -3,10 +3,15 @@ import newsData from '@/data/news.json'
 import { getPaginatedPosts, getTotalPages, type BoardPost } from '@/lib/board-utils'
 
 export async function generateStaticParams() {
-    return [
-        { lang: 'ko' },
-        { lang: 'en' }
-    ]
+    const news = newsData.ko
+    const totalPages = Math.ceil(news.length / 10)
+    
+    const params = []
+    for (let i = 1; i <= totalPages; i++) {
+        params.push({ lang: 'ko', num: i.toString() })
+        params.push({ lang: 'en', num: i.toString() })
+    }
+    return params
 }
 
 export default async function NewsPageNum({ params }: { params: Promise<{ lang: string; num: string }> }) {
