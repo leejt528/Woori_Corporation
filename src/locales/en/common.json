@@ -1,0 +1,36 @@
+{
+    "navigation": {
+        "home": "Home",
+        "about": "About Us",
+        "products": "Products",
+        "partners": "Partners",
+        "support": "Support"
+    },
+    "about": {
+        "greeting": "Greeting",
+        "overview": "Overview",
+        "history": "History",
+        "locations": "Locations"
+    },
+    "products": {
+        "fluoro": "Fluoro Elastomer & Resin",
+        "rubber": "Rubber",
+        "urethane": "Urethane",
+        "filler": "Functional filler & Pigment",
+        "mold": "Mold releases & Internal lubricants",
+        "flame": "Flame retardants",
+        "other": "Other additives"
+    },
+    "partners": {
+        "axel": "AXEL",
+        "cfi": "CFI",
+        "faretar": "FARETAR",
+        "frechem": "FreChem",
+        "lanxess": "LANXESS",
+        "sundow": "Sundow"
+    },
+    "support": {
+        "notices": "Notices",
+        "news": "News"
+    }
+}

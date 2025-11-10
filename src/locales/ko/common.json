@@ -1,0 +1,36 @@
+{
+    "navigation": {
+        "home": "홈",
+        "about": "회사소개",
+        "products": "제품소개",
+        "partners": "협력사",
+        "support": "고객지원"
+    },
+    "about": {
+        "greeting": "인사말",
+        "overview": "회사개요",
+        "history": "회사연혁",
+        "locations": "사업장소개"
+    },
+    "products": {
+        "fluoro": "불소고무 & 수지",
+        "rubber": "고무류",
+        "urethane": "우레탄",
+        "filler": "기능성 충진제 & 안료",
+        "mold": "이형제 & 윤활제",
+        "flame": "난연제",
+        "other": "기타 첨가제"
+    },
+    "partners": {
+        "axel": "AXEL",
+        "cfi": "CFI",
+        "faretar": "FARETAR",
+        "frechem": "FreChem",
+        "lanxess": "LANXESS",
+        "sundow": "Sundow"
+    },
+    "support": {
+        "notices": "공지사항",
+        "news": "뉴스"
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "ko": [
+        {
+            "id": 15,
+            "title": "우리코퍼레이션, 2024년 연매출 100억 돌파",
+            "date": "2025-01-20",
+            "content": "우리코퍼레이션이 설립 15년 만에 연매출 100억 원을 달성하며 괄목할 만한 성장을 이루었습니다.",
+            "author": "뉴스팀"
+        },
+        {
+            "id": 14,
+            "title": "친환경 난연제 개발 성공",
+            "date": "2025-01-12",
+            "content": "당사 연구팀이 환경 친화적인 새로운 난연제 개발에 성공하여 업계의 주목을 받고 있습니다.",
+            "author": "뉴스팀"
+        },
+        {
+            "id": 13,
+            "title": "해외 시장 진출 확대",
+            "date": "2025-01-08",
+            "content": "동남아시아 시장 진출을 본격화하며 글로벌 기업으로 도약하고 있습니다.",
+            "author": "뉴스팀"
+        },
+        {
+            "id": 12,
+            "title": "우수 중소기업 선정",
+            "date": "2024-12-28",
+            "content": "중소벤처기업부로부터 '2024 우수 중소기업'으로 선정되는 영예를 안았습니다.",
+            "author": "뉴스팀"
+        },
+        {
+            "id": 11,
+            "title": "LANXESS와 전략적 제휴 체결",
+            "date": "2024-12-10",
+            "content": "글로벌 화학 기업 LANXESS와 공식 파트너십을 통해 시장 경쟁력을 강화했습니다.",
+            "author": "뉴스팀"
+        },
+        {
+            "id": 10,
+            "title": "신규 R&D 센터 준공",
+            "date": "2024-11-25",
+            "content": "최첨단 연구개발 시설을 갖춘 신규 R&D 센터가 준공되었습니다.",
+            "author": "뉴스팀"
+        },
+        {
+            "id": 9,
+            "title": "화학산업 전시회 참가",
+            "date": "2024-11-15",
+            "content": "2024 서울 화학산업 전시회에 참가하여 신제품을 선보였습니다.",
+            "author": "뉴스팀"
+        },
+        {
+            "id": 8,
+            "title": "지역사회 공헌 활동",
+            "date": "2024-10-20",
+            "content": "지역 복지시설에 생활용품을 기부하며 사회적 책임을 실천했습니다.",
+            "author": "뉴스팀"
+        },
+        {
+            "id": 7,
+            "title": "품질경영 대상 수상",
+            "date": "2024-10-05",
+            "content": "한국품질경영학회로부터 품질경영 대상을 수상했습니다.",
+            "author": "뉴스팀"
+        },
+        {
+            "id": 6,
+            "title": "직원 복지 확대",
+            "date": "2024-09-20",
+            "content": "직원들의 근무 환경 개선을 위한 복지 제도를 대폭 확대했습니다.",
+            "author": "뉴스팀"
+        },
+        {
+            "id": 5,
+            "title": "특허 출원 10건 달성",
+            "date": "2024-09-01",
+            "content": "자체 개발 기술에 대한 특허 출원이 누적 10건을 돌파했습니다.",
+            "author": "뉴스팀"
+        },
+        {
+            "id": 4,
+            "title": "여름 인턴십 프로그램 성료",
+            "date": "2024-08-25",
+            "content": "대학생 대상 여름 인턴십 프로그램이 성공적으로 마무리되었습니다.",
+            "author": "뉴스팀"
+        },
+        {
+            "id": 3,
+            "title": "환경경영시스템 인증 획득",
+            "date": "2024-08-10",
+            "content": "ISO 14001 환경경영시스템 인증을 획득했습니다.",
+            "author": "뉴스팀"
+        },
+        {
+            "id": 2,
+            "title": "협력사 간담회 개최",
+            "date": "2024-07-30",
+            "content": "주요 협력사들과의 간담회를 통해 상생 협력 방안을 논의했습니다.",
+            "author": "뉴스팀"
+        },
+        {
+            "id": 1,
+            "title": "창립 15주년 기념행사",
+            "date": "2024-07-20",
+            "content": "창립 15주년을 맞아 전 직원이 참여하는 기념행사를 개최했습니다.",
+            "author": "뉴스팀"
+        }
+    ],
+    "en": [
+        {
+            "id": 15,
+            "title": "Woori Corporation Surpasses 10 Billion KRW in Annual Revenue for 2024",
+            "date": "2025-01-20",
+            "content": "Woori Corporation achieved remarkable growth by reaching 10 billion KRW in annual revenue, 15 years after its establishment.",
+            "author": "News Team"
+        },
+        {
+            "id": 14,
+            "title": "Successful Development of Eco-friendly Flame Retardants",
+            "date": "2025-01-12",
+            "content": "Our research team has successfully developed new environmentally friendly flame retardants, attracting industry attention.",
+            "author": "News Team"
+        },
+        {
+            "id": 13,
+            "title": "Expansion into Overseas Markets",
+            "date": "2025-01-08",
+            "content": "We are taking a leap forward as a global company by expanding into Southeast Asian markets.",
+            "author": "News Team"
+        },
+        {
+            "id": 12,
+            "title": "Selected as Excellent Small and Medium Enterprise",
+            "date": "2024-12-28",
+            "content": "We were honored to be selected as '2024 Excellent SME' by the Ministry of SMEs and Startups.",
+            "author": "News Team"
+        },
+        {
+            "id": 11,
+            "title": "Strategic Partnership with LANXESS",
+            "date": "2024-12-10",
+            "content": "Strengthened market competitiveness through official partnership with global chemical company LANXESS.",
+            "author": "News Team"
+        },
+        {
+            "id": 10,
+            "title": "New R&D Center Completion",
+            "date": "2024-11-25",
+            "content": "A new R&D center equipped with state-of-the-art research facilities has been completed.",
+            "author": "News Team"
+        },
+        {
+            "id": 9,
+            "title": "Participation in Chemical Industry Exhibition",
+            "date": "2024-11-15",
+            "content": "Participated in the 2024 Seoul Chemical Industry Exhibition and showcased new products.",
+            "author": "News Team"
+        },
+        {
+            "id": 8,
+            "title": "Community Contribution Activities",
+            "date": "2024-10-20",
+            "content": "Practiced social responsibility by donating daily necessities to local welfare facilities.",
+            "author": "News Team"
+        },
+        {
+            "id": 7,
+            "title": "Quality Management Award",
+            "date": "2024-10-05",
+            "content": "Received the Quality Management Award from the Korean Society for Quality Management.",
+            "author": "News Team"
+        },
+        {
+            "id": 6,
+            "title": "Employee Welfare Expansion",
+            "date": "2024-09-20",
+            "content": "Significantly expanded welfare programs to improve employee working conditions.",
+            "author": "News Team"
+        },
+        {
+            "id": 5,
+            "title": "10 Patent Applications Achieved",
+            "date": "2024-09-01",
+            "content": "Cumulative patent applications for in-house developed technologies exceeded 10.",
+            "author": "News Team"
+        },
+        {
+            "id": 4,
+            "title": "Summer Internship Program Concluded",
+            "date": "2024-08-25",
+            "content": "The summer internship program for university students concluded successfully.",
+            "author": "News Team"
+        },
+        {
+            "id": 3,
+            "title": "Environmental Management System Certification",
+            "date": "2024-08-10",
+            "content": "Obtained ISO 14001 Environmental Management System certification.",
+            "author": "News Team"
+        },
+        {
+            "id": 2,
+            "title": "Partner Company Meeting",
+            "date": "2024-07-30",
+            "content": "Discussed win-win cooperation measures through a meeting with major partners.",
+            "author": "News Team"
+        },
+        {
+            "id": 1,
+            "title": "15th Anniversary Celebration",
+            "date": "2024-07-20",
+            "content": "Held a celebration event with all employees to commemorate the 15th anniversary.",
+            "author": "News Team"
+        }
+    ]
+}

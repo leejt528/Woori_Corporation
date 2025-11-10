@@ -1,0 +1,174 @@
+{
+    "ko": [
+        {
+            "id": 12,
+            "title": "2025년 설 연휴 휴무 안내",
+            "date": "2025-01-15",
+            "content": "2025년 설 연휴 기간 동안 당사는 1월 28일(화)부터 1월 30일(목)까지 휴무입니다. 업무는 1월 31일(금)부터 정상 운영됩니다.",
+            "author": "관리자"
+        },
+        {
+            "id": 11,
+            "title": "신제품 출시 안내 - 고성능 난연제",
+            "date": "2025-01-10",
+            "content": "새로운 고성능 난연제 제품이 출시되었습니다. 기존 제품 대비 30% 향상된 난연 성능을 제공합니다.",
+            "author": "관리자"
+        },
+        {
+            "id": 10,
+            "title": "ISO 9001 인증 갱신 완료",
+            "date": "2025-01-05",
+            "content": "당사는 ISO 9001:2015 품질경영시스템 인증을 성공적으로 갱신하였습니다.",
+            "author": "관리자"
+        },
+        {
+            "id": 9,
+            "title": "웹사이트 리뉴얼 안내",
+            "date": "2024-12-20",
+            "content": "고객 여러분의 편의를 위해 웹사이트를 전면 리뉴얼하였습니다. 더욱 쉽고 빠르게 정보를 확인하실 수 있습니다.",
+            "author": "관리자"
+        },
+        {
+            "id": 8,
+            "title": "2024년 동계 휴가 안내",
+            "date": "2024-12-15",
+            "content": "2024년 12월 30일(월)부터 2025년 1월 1일(수)까지 동계 휴가로 휴무합니다.",
+            "author": "관리자"
+        },
+        {
+            "id": 7,
+            "title": "FreChem 파트너십 강화",
+            "date": "2024-12-01",
+            "content": "FreChem과의 전략적 파트너십을 강화하여 더욱 다양한 제품을 공급하게 되었습니다.",
+            "author": "관리자"
+        },
+        {
+            "id": 6,
+            "title": "가격 조정 안내",
+            "date": "2024-11-20",
+            "content": "원자재 가격 상승에 따라 일부 제품의 가격이 조정됩니다. 자세한 사항은 담당자에게 문의해주세요.",
+            "author": "관리자"
+        },
+        {
+            "id": 5,
+            "title": "물류센터 확장 이전",
+            "date": "2024-11-10",
+            "content": "물류센터를 확장 이전하여 더욱 신속한 배송 서비스를 제공하게 되었습니다.",
+            "author": "관리자"
+        },
+        {
+            "id": 4,
+            "title": "추석 연휴 휴무 안내",
+            "date": "2024-09-10",
+            "content": "추석 연휴 기간 동안 9월 16일(월)부터 9월 18일(수)까지 휴무합니다.",
+            "author": "관리자"
+        },
+        {
+            "id": 3,
+            "title": "하계 휴가 안내",
+            "date": "2024-08-01",
+            "content": "2024년 8월 12일(월)부터 8월 16일(금)까지 하계 휴가로 휴무합니다.",
+            "author": "관리자"
+        },
+        {
+            "id": 2,
+            "title": "신규 협력사 LANXESS 추가",
+            "date": "2024-07-15",
+            "content": "글로벌 특수 화학 기업 LANXESS와 공식 파트너십을 체결하였습니다.",
+            "author": "관리자"
+        },
+        {
+            "id": 1,
+            "title": "온라인 견적 시스템 오픈",
+            "date": "2024-07-01",
+            "content": "온라인으로 간편하게 견적을 요청하실 수 있는 시스템을 오픈하였습니다.",
+            "author": "관리자"
+        }
+    ],
+    "en": [
+        {
+            "id": 12,
+            "title": "Lunar New Year Holiday Notice 2025",
+            "date": "2025-01-15",
+            "content": "Our company will be closed from January 28 (Tue) to January 30 (Thu) for the Lunar New Year holiday. We will resume normal operations from January 31 (Fri).",
+            "author": "Administrator"
+        },
+        {
+            "id": 11,
+            "title": "New Product Launch - High-Performance Flame Retardants",
+            "date": "2025-01-10",
+            "content": "New high-performance flame retardant products have been launched. They provide 30% improved flame retardant performance compared to existing products.",
+            "author": "Administrator"
+        },
+        {
+            "id": 10,
+            "title": "ISO 9001 Certification Renewal Completed",
+            "date": "2025-01-05",
+            "content": "We have successfully renewed our ISO 9001:2015 Quality Management System certification.",
+            "author": "Administrator"
+        },
+        {
+            "id": 9,
+            "title": "Website Renewal Notice",
+            "date": "2024-12-20",
+            "content": "We have completely renewed our website for your convenience. You can now check information more easily and quickly.",
+            "author": "Administrator"
+        },
+        {
+            "id": 8,
+            "title": "Winter Holiday Notice 2024",
+            "date": "2024-12-15",
+            "content": "We will be closed from December 30 (Mon) to January 1 (Wed) for winter holiday.",
+            "author": "Administrator"
+        },
+        {
+            "id": 7,
+            "title": "Strengthening Partnership with FreChem",
+            "date": "2024-12-01",
+            "content": "We have strengthened our strategic partnership with FreChem to supply a wider variety of products.",
+            "author": "Administrator"
+        },
+        {
+            "id": 6,
+            "title": "Price Adjustment Notice",
+            "date": "2024-11-20",
+            "content": "Due to rising raw material costs, prices for some products will be adjusted. Please contact your representative for details.",
+            "author": "Administrator"
+        },
+        {
+            "id": 5,
+            "title": "Logistics Center Expansion and Relocation",
+            "date": "2024-11-10",
+            "content": "We have expanded and relocated our logistics center to provide faster delivery services.",
+            "author": "Administrator"
+        },
+        {
+            "id": 4,
+            "title": "Chuseok Holiday Notice",
+            "date": "2024-09-10",
+            "content": "We will be closed from September 16 (Mon) to September 18 (Wed) for Chuseok holiday.",
+            "author": "Administrator"
+        },
+        {
+            "id": 3,
+            "title": "Summer Vacation Notice",
+            "date": "2024-08-01",
+            "content": "We will be closed from August 12 (Mon) to August 16 (Fri) for summer vacation.",
+            "author": "Administrator"
+        },
+        {
+            "id": 2,
+            "title": "New Partner LANXESS Added",
+            "date": "2024-07-15",
+            "content": "We have signed an official partnership with global specialty chemicals company LANXESS.",
+            "author": "Administrator"
+        },
+        {
+            "id": 1,
+            "title": "Online Quotation System Open",
+            "date": "2024-07-01",
+            "content": "We have opened an online system where you can easily request quotations.",
+            "author": "Administrator"
+        }
+    ]
+}
