@@ -1,11 +1,16 @@
 import type { NextConfig } from "next";
 
+const isProd = process.env.NODE_ENV === 'production';
+const repoName = 'Woori_Corporation';
+
 const nextConfig: NextConfig = {
-  // output: "export", // 정적 사이트 생성
+  output: 'export',
+  basePath: isProd ? `/${repoName}` : '',
+  assetPrefix: isProd ? `/${repoName}/` : '',
   trailingSlash: true,
   images: {
-    unoptimized: true, // 정적 export 시 필요
-  },
+    unoptimized: true
+  }
 };
 
 export default nextConfig;
