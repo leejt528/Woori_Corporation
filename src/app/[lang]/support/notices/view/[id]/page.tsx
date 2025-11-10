@@ -3,10 +3,20 @@ import noticesData from '@/data/notices.json'
 import { type BoardPost } from '@/lib/board-utils'
 
 export async function generateStaticParams() {
-    return [
-        { lang: 'ko' },
-        { lang: 'en' }
-    ]
+    const koNotices = noticesData.ko
+    const enNotices = noticesData.en
+    
+    const params: { lang: string; id: string }[] = []
+    
+    koNotices.forEach(notice => {
+        params.push({ lang: 'ko', id: notice.id.toString() })
+    })
+    
+    enNotices.forEach(notice => {
+        params.push({ lang: 'en', id: notice.id.toString() })
+    })
+    
+    return params
 }
 
 export default async function NoticeDetailPage({ params }: { params: Promise<{ lang: string; id: string }> }) {
